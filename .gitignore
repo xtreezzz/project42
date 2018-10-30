@@ -2,3 +2,4 @@ venv/
 logs/
 *.db
 .idea/
+code_py/__pycache__/*
